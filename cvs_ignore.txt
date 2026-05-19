@@ -1,0 +1,2 @@
+# Demo ignore list (gitignore-style)
+.venv
