@@ -1,0 +1,2 @@
+INVENTORY_STATUS_DEFAULT = "active"
+INVENTORY_PREFIX = "inventory:"
