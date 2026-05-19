@@ -1,0 +1,2 @@
+SHIPPING_STATUS_DEFAULT = "active"
+SHIPPING_PREFIX = "shipping:"
