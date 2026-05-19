@@ -1,0 +1,2 @@
+PAYMENT_STATUS_DEFAULT = "active"
+PAYMENT_PREFIX = "payment:"
