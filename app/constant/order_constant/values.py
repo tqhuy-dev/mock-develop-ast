@@ -1,0 +1,2 @@
+ORDER_STATUS_DEFAULT = "active"
+ORDER_PREFIX = "order:"
