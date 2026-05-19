@@ -1,0 +1,2 @@
+CATALOG_STATUS_DEFAULT = "active"
+CATALOG_PREFIX = "catalog:"
