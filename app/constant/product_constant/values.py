@@ -1,0 +1,2 @@
+PRODUCT_STATUS_DEFAULT = "active"
+PRODUCT_PREFIX = "product:"
