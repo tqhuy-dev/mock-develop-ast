@@ -1,0 +1,2 @@
+ACCOUNT_STATUS_DEFAULT = "active"
+ACCOUNT_PREFIX = "account:"
